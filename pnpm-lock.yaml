@@ -89,8 +89,8 @@ devDependencies:
     specifier: 0.4.1
     version: 0.4.1(@builder.io/qwik@1.12.1)(prettier@3.6.2)(storybook@8.6.11)(typescript@5.8.2)(vite@6.2.7)
   tailwindcss:
-    specifier: 4.1.2
-    version: 4.1.2
+    specifier: 4.3.5
+    version: 4.3.5
   typescript:
     specifier: 5.8.2
     version: 5.8.2
@@ -5966,8 +5966,8 @@ packages:
       csso: 5.0.5
       picocolors: 1.1.1
 
-  /tailwindcss@4.1.2:
-    resolution: {integrity: sha512-VCsK+fitIbQF7JlxXaibFhxrPq4E2hDcG8apzHUdWFMCQWD8uLdlHg4iSkZ53cgLCCcZ+FZK7vG8VjvLcnBgKw==}
+  /tailwindcss@4.3.5:
+    resolution: {integrity: sha512-FcQk9BuffmEHJP2G0XmB2SplU1aLTI7j07Kunk+U74Ny+XiWOtzXz9aujFZ/avntw1e2cOv/3PkgzflQ7gX2vQ==}
     dev: true
 
   /tar@6.2.1:
